@@ -11,5 +11,6 @@
 
 An experiment with serializing and compressing tables.
 
-!!! warning
-    The format is versioned and that will be respected eventually, but it **will change without notice** in the experimental phase of this package. If you are using it in production, pin to a particular commit.
+## warning
+
+The format is versioned and that will be respected eventually, but it **will change without notice** in the experimental phase of this package. If you are using it in production, pin to a particular commit.
